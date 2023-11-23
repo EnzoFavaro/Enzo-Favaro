@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Azuton Tecnologia**
+- 🔭 I’m currently working on **Diebold Nixdorf**
 - 📫 How to reach me **enzofavaro10@gmail.com**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enzofavaro&theme=onedark" alt="enzofavaro" /></a> </p>
 <h3 align="left">Connect with me:</h3>
